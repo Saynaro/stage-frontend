@@ -1,2 +1,2 @@
-Stage frontend
 
+Stage frontend
