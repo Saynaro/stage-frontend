@@ -1,76 +1,76 @@
-# КТ-СЕГМЕНТ — Автоматизация производственных процессов
+# KT-SEGMENT — Automatisation des processus de production
 
 <div align="center">
   <img src="./Home/img/background_about.jpg" alt="KT-SEGMENT Header" width="100%">
 </div>
 
-## 🌐 О компании
+## 🌐 À propos de l'entreprise
 
-**КТ-СЕГМЕНТ** — это ведущий эксперт в области автоматизации производственной деятельности предприятий. С 1999 года мы разрабатываем и внедряем программные продукты на базе «1С» для отрасли машиностроения и других секторов промышленности.
+**KT-SEGMENT** est un expert de premier plan dans l'automatisation des activités de production des entreprises. Depuis 1999, nous développons et implémentons des produits logiciels basés sur « 1C » pour l'industrie mécanique et d'autres secteurs industriels.
 
-Наши специалисты объединяют глубокие инженерные знания с передовыми IT-технологиями для повышения эффективности вашего бизнеса.
-
----
-
-## 🚀 Основные решения
-
-Мы предлагаем комплексные решения для управления предприятием на всех уровнях:
-
-### [MES](https://kt-segment.ru/1cmes/) — Оперативное управление производством
-Оперативное планирование, диспетчеризация, мониторинг и контроль производственных операций в режиме реального времени.
-
-### [ERP](https://kt-segment.ru/1cerp/) — Управление предприятием
-Комплексная система учета, планирования ресурсов и управления затратами с высокой степенью детализации.
-
-### [PDM (PLM)](https://kt-segment.ru/pdm-plm/) — Управление инженерными данными
-Автоматизация конструкторско-технологической подготовки производства (КТПП) и жизненного цикла изделия.
-
-### [SCADA](https://kt-segment.ru/scada/) — Диспетчерское управление
-Сбор данных и диспетчеризация процессов в реальном времени.
+Nos spécialistes allient des connaissances approfondies en ingénierie aux technologies informatiques de pointe pour accroître l'efficacité de votre entreprise.
 
 ---
 
-## 📊 Цифры и факты
+## 🚀 Solutions principales
 
-- **20+** лет успешной работы на рынке.
-- **2000+** реализованных проектов и довольных клиентов.
-- **100+** высококвалифицированных специалистов.
-- **4600+** м² современных производственных и офисных площадей.
+Nous proposons des solutions complètes pour la gestion d'entreprise à tous les niveaux :
+
+### [MES](https://kt-segment.ru/1cmes/) — Gestion des opérations de production
+Planification opérationnelle, répartition, suivi et contrôle des opérations de production en temps réel.
+
+### [ERP](https://kt-segment.ru/1cerp/) — Gestion d'entreprise
+Système complet de comptabilité, de planification des ressources et de gestion des coûts avec un haut niveau de détail.
+
+### [PDM (PLM)](https://kt-segment.ru/pdm-plm/) — Gestion des données techniques
+Automatisation de la préparation technique de la production et gestion du cycle de vie du produit.
+
+### [SCADA](https://kt-segment.ru/scada/) — Supervision et acquisition de données
+Collecte de données et supervision des processus en temps réel.
 
 ---
 
-## 🛠 Технологический стек
+## 📊 Chiffres et faits
 
-Сайт построен с использованием современных веб-технологий:
-- **HTML5** & **CSS3** (Адаптивная верстка)
-- **JavaScript** (jQuery для динамических элементов и анимаций)
-- **Google Fonts** (Шрифт Montserrat)
+- **20+** ans de succès sur le marché.
+- **2000+** projets réalisés et clients satisfaits.
+- **100+** spécialistes hautement qualifiés.
+- **4600+** m² de surfaces de production et de bureaux modernes.
 
 ---
 
-## 📂 Структура проекта
+## 🛠 Pile technologique
+
+Le site est construit avec des technologies web modernes :
+- **HTML5** & **CSS3** (Mise en page adaptative)
+- **JavaScript** (jQuery pour les éléments dynamiques et les animations)
+- **Google Fonts** (Police Montserrat)
+
+---
+
+## 📂 Structure du projet
 
 ```bash
 KTSEGMENT/
-├── Home/             # Главная страница (CSS, JS, изображения)
-├── Events/           # Раздел событий
-├── Webinars/         # Раздел вебинаров
-├── Contacts/         # Контактная информация
-├── Footer/           # Общие компоненты футера
-├── index.html        # Главная страница сайта
-├── events.html       # Страница событий
-├── webinars.html     # Страница вебинаров
-└── contacts.html     # Страница контактов
+├── Home/             # Page d'accueil (CSS, JS, images)
+├── Events/           # Section Événements
+├── Webinars/         # Section Webinaires
+├── Contacts/         # Informations de contact
+├── Footer/           # Composants communs du pied de page
+├── index.html        # Page d'accueil du site
+├── events.html       # Page Événements
+├── webinars.html     # Page Webinaires
+└── contacts.html     # Page Contacts
 ```
 
 ---
 
-## 📞 Контакты
+## 📞 Contacts
 
-- **Телефон**: +7 (812) 670-89-63
-- **Email**: [info@kt-segment.ru](mailto:info@kt-segment.ru)
-- **Адрес**: Санкт-Петербург, наб. реки Карповки, д. 5, корп. 11
+- **Téléphone** : +7 (812) 670-89-63
+- **Email** : [info@kt-segment.ru](mailto:info@kt-segment.ru)
+- **Adresse** : Saint-Pétersbourg, quai de la rivière Karpovka, bât. 5, corps 11
 
 ---
 
-*© КТ-СЕГМЕНТ 1999–2022*
+*© KT-SEGMENT 1999–2022*
